@@ -1,0 +1,39 @@
+body {
+  margin-top: 30px;
+  margin-left: 5%;
+}
+
+p {
+  display: inline;
+}
+
+.week {
+  background-color: gray;
+  margin-right: 30px;
+}
+
+.first-item {
+  margin-left: 80px;
+  background-color:greenyellow;
+}
+
+.second-item {
+  background-color: burlywood;
+}
+
+.third-item {
+  background-color: lightcyan;
+}
+
+.fourth-item {
+  background-color: blanchedalmond;
+}
+
+.first-item,
+.second-item,
+.third-item,
+.fourth-item {
+  margin-right: 10px;
+  text-decoration: underline;
+}
+
